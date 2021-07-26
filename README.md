@@ -16,3 +16,13 @@ process 확인, 죽어있다면 sudo nginx로 활성화
 wsl -l -v  => 현재 구동중인 가상머신 확인
 
 wsl -t ubuntu => 구동중인 ubuntu 종료(그냥 강제종료해도 동일)
+
+
+# 유용한 terminal 명령어
+
+clear
+grep
+ps
+ifconfig
+
+curl icanhazip.com (get public IP)
