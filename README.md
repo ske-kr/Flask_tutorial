@@ -26,3 +26,9 @@ ps
 ifconfig
 
 curl icanhazip.com (get public IP)
+
+# 
+
+현재 IP address 설정관련 문제에서 막힘
+
+local host로 접속시 잘 되나 public ip설정후 public ip로 접속시 에러가 난다? 왤까
